@@ -49,7 +49,7 @@
 <style scoped>
     /* -- CAROUSEL -- */
     .carousel {
-        max-width: 980px;
+        max-width: 975px;
         height: 500px;
         margin: 0 auto;
     }
@@ -70,7 +70,7 @@
         }
     }
 
-    
+
     #content-slider li{
         text-align: center;
         color: #FFF;
