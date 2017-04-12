@@ -1,6 +1,6 @@
 <div class="footer">
     <div class="col-md-offset-2">
-        <p style="color: white; margin-top: 5px;">{{ date('Y') }} Matas Kinderis <a href="https://github.com/kinderis94/baldai_cms">github</a></p>
+        <p style="margin-top: 5px;"><a target="_blank" href="http://kinderis94.com">Matas Kinderis</a> | <a href="https://github.com/kinderis94/baldai_cms">github</a></p>
     </div>
 </div>
 
